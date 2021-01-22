@@ -1,0 +1,9 @@
+[Entries]
+FARSIDE=tcp holdenlv.mycrestron.com
+
+[Settings]
+DefaultEntry=
+
+[Comments]
+FARSIDE=
+
